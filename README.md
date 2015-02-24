@@ -1,8 +1,9 @@
 # PostGIS Layer Viewer
 A PostGIS layer viewer for pgAdmin3, based on PyQt4 and PyQGIS libs.
 
-License: GNU/GPL v.2.0
-Current version: 1.6.1 (2015.02.24)
+*License*: GNU/GPL v.2.0
+
+*Current version*: 1.6.1 (2015.02.24)
 
 With this pgAdmin3 plugin you can:
 
@@ -17,12 +18,15 @@ Installation and usage instructions at [GeoTux](http://geotux.tuxfamily.org/inde
 **Screenshots**
 
 pgAdmin's GUI
+
 ![pgAdminGUI][1]
 
 Raster support
+
 ![Load Them All][2]
 
-Run and visualize your PostGIS queries:
+Run and visualize your PostGIS queries
+
 ![Load Them All][3]
 
 [1]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot01.png
