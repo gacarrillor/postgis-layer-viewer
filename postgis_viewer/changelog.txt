@@ -1,0 +1,39 @@
+================================================================================
+v.1.6.1 (2015.02.24)
+ + Bug fixes for running PostGIS queries and loading results to the map.
+
+================================================================================
+v.1.6 (2014.12.08)
+ + Support for PostGIS raster layers updated to QGIS 2.6.
+ + Replacement of deprecated methods/properties:
+    fieldCount() --> fields().count()
+ + Old symbology removed.
+
+================================================================================
+v.1.5 (2012.03.20)
+ + Geography type supported
+
+================================================================================
+v.1.4 (2012.02.17)
+ + Zoom full extent added
+ + This changelog was included in the zip file to keep track of versions
+
+================================================================================
+v.1.3.1 (2012.02.17)
+ + Minor update in FastSQLLayer to remove ";" in SQL queries
+
+================================================================================
+v.1.3 (2012.02.04)
+ + Replacement of deprecated methods/properties:
+    getLayerID() --> id()
+    srs -> crs
+ + Basic support for symbology-NG
+ + Log message about SRS fixed (Now it shows more useful description about the EPSG code)
+
+FastSQLLayer plugin added:
+    Changes to the GUI to fit in small space
+	Show Error Messages for checking syntaxis:
+		Use Dobias' postgis_utils.py rather than the connection module of the FastSQLLayer plugin
+	Read the SRID from the query's layer to show it on the TOC (postgis_utils.py modified)
+
+================================================================================
