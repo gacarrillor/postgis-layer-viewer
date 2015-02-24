@@ -29,6 +29,11 @@ Run and visualize your PostGIS queries
 
 ![Load Them All][3]
 
+See the changelog at https://github.com/gacarrillor/postgis-layer-viewer/blob/master/postgis_viewer/changelog.txt
+
 [1]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot01.png
 [2]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot06.png
 [3]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot03.png
+
+
+
