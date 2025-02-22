@@ -13,7 +13,7 @@ With this pgAdmin3 plugin you can:
 
  * Run and visualize PostGIS queries.
 
-Installation and usage instructions at [GeoTux](http://geotux.tuxfamily.org/index.php/en/geo-blogs/item/293-consola-sql-para-plugin-pgadmin-postgis-viewer/).
+Installation and usage instructions at [GeoTux](https://geotux.tuxfamily.org/en/2011/02/24/postgis-viewer-for-pgadmin-3/).
 
 **Screenshots**
 
@@ -31,9 +31,9 @@ Run and visualize your PostGIS queries
 
 See the changelog at https://github.com/gacarrillor/postgis-layer-viewer/blob/master/postgis_viewer/changelog.txt
 
-[1]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot01.png
-[2]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot06.png
-[3]: http://downloads.tuxfamily.org/tuxgis/geoblogs/sql_console_postgis_viewer/imgs/screenshot03.png
+[1]: ./imgs/screenshot01.png
+[2]: ./imgs/screenshot06.png
+[3]: ./imgs/screenshot03.png
 
 
 
